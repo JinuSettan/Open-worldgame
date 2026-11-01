@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "game": "WORLD: Rise of the Underworld",
+  "act_number": 4,
+  "act_title": "Revenge",
+  "status": "outline",
+  "missions": [
+    {
+      "mission_number": 31,
+      "title": "No More Orders",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 32,
+      "title": "Black Crown Divided",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 33,
+      "title": "Russell's Choice",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 34,
+      "title": "The Drug Empire",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 35,
+      "title": "Human Experiments",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 36,
+      "title": "The Underground",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 37,
+      "title": "Proof",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 38,
+      "title": "The Cure",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 39,
+      "title": "Hale's General",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 40,
+      "title": "War for America",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    }
+  ]
+}
