@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "characters": [
+    {
+      "id": "alex",
+      "name": "Alex",
+      "role": "Player protagonist",
+      "home": "Isla Mar"
+    },
+    {
+      "id": "russell",
+      "name": "Russell",
+      "role": "Viktor's right-hand man and Alex's mentor"
+    },
+    {
+      "id": "viktor",
+      "name": "Viktor",
+      "role": "Leader of Black Crown"
+    },
+    {
+      "id": "maya",
+      "name": "Maya",
+      "role": "Alex's love interest"
+    },
+    {
+      "id": "victor_hale",
+      "name": "Victor Hale",
+      "role": "Corrupt police commander"
+    }
+  ]
+}
