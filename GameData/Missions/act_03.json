@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "game": "WORLD: Rise of the Underworld",
+  "act_number": 3,
+  "act_title": "The Virus",
+  "status": "outline",
+  "missions": [
+    {
+      "mission_number": 21,
+      "title": "Missing Scientists",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 22,
+      "title": "Area 09",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 23,
+      "title": "Patient Zero",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 24,
+      "title": "Dead Precinct",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 25,
+      "title": "The Commander",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 26,
+      "title": "Quarantine",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 27,
+      "title": "Survivors",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 28,
+      "title": "The Cure Project",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 29,
+      "title": "Taken",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 30,
+      "title": "Maya",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    }
+  ]
+}
