@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "factions": [
+    {
+      "id": "black_crown",
+      "name": "Black Crown",
+      "type": "international fictional organisation",
+      "role": "Viktor's organisation"
+    },
+    {
+      "id": "red_vipers",
+      "name": "Red Vipers",
+      "type": "fictional gang",
+      "role": "Rival faction"
+    },
+    {
+      "id": "silent_order",
+      "name": "Silent Order",
+      "type": "fictional covert network",
+      "role": "Rival faction"
+    },
+    {
+      "id": "iron_wolves",
+      "name": "Iron Wolves",
+      "type": "fictional armed faction",
+      "role": "Rival faction"
+    },
+    {
+      "id": "meridian_cartel",
+      "name": "Meridian Cartel",
+      "type": "fictional criminal network",
+      "role": "International rival"
+    }
+  ]
+}
