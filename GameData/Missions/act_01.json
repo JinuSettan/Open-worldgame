@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "game": "WORLD: Rise of the Underworld",
+  "act_number": 1,
+  "act_title": "The Stranger",
+  "status": "outline",
+  "missions": [
+    {
+      "mission_number": 1,
+      "title": "Isla Mar",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 2,
+      "title": "The Accident",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 3,
+      "title": "A New Shore",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 4,
+      "title": "Russell's Call",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 5,
+      "title": "The Ambush",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 6,
+      "title": "Viktor",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 7,
+      "title": "Safe Passage",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 8,
+      "title": "The Invitation",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 9,
+      "title": "First Test",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 10,
+      "title": "A New Life",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    }
+  ]
+}
