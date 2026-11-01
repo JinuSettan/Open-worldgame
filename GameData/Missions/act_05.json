@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "game": "WORLD: Rise of the Underworld",
+  "act_number": 5,
+  "act_title": "The King",
+  "status": "outline",
+  "missions": [
+    {
+      "mission_number": 41,
+      "title": "The Fall of Hale",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 42,
+      "title": "The Final Lab",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 43,
+      "title": "Last Infection",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 44,
+      "title": "Black Crown's Fate",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 45,
+      "title": "The Final Choice",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 46,
+      "title": "A New Order",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 47,
+      "title": "The People's Voice",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 48,
+      "title": "The Broadcast",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 49,
+      "title": "The Last Night",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 50,
+      "title": "Rise of the Underworld",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    }
+  ]
+}
