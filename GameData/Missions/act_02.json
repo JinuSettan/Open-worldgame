@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "game": "WORLD: Rise of the Underworld",
+  "act_number": 2,
+  "act_title": "The Rise",
+  "status": "outline",
+  "missions": [
+    {
+      "mission_number": 11,
+      "title": "Russian Connection",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 12,
+      "title": "Red Vipers",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 13,
+      "title": "The Port",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 14,
+      "title": "Airborne",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 15,
+      "title": "The Informant",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 16,
+      "title": "Viktor's Past",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 17,
+      "title": "Silent Order",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 18,
+      "title": "Double-Cross",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 19,
+      "title": "Iron Wolves",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    },
+    {
+      "mission_number": 20,
+      "title": "American Influence",
+      "status": "planned",
+      "summary": "",
+      "objectives": [],
+      "unlocks": [],
+      "choices": [],
+      "notes": "Mission outline only; details to be designed."
+    }
+  ]
+}
